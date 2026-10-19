@@ -15,7 +15,7 @@ In der Meta Horizon App konnte ich die Quest 2 mit meinem Acount koppeln, ein De
  
 In Unity 6.6 habe ich ein Universal 3D Projekt mit URP erstellt und das OpenXR Plugin unter Unity Registry installiert. Als nächsten Schritt habe ich ein Build Profile unter XR/Meta eingestellt und die Meta XR All-in-One SDK gemeinsam mit OpenXR dafür ausgewählt. 
 
-Aufgrund der Erfahrung durch die 1. Übung wurde erneut das Asset "Planets of the Solar System 3D" für die Planeten verwendet (https://assetstore.unity.com/packages/3d/environments/planets-of-the-solar-system-3d-90219).Das Asset wurde über Window/Package Manager in das Projekt importiert.
+Aufgrund der Erfahrung durch die 1. Übung wurde erneut das Asset "Planets of the Solar System 3D" für die Planeten verwendet (https://assetstore.unity.com/packages/3d/environments/planets-of-the-solar-system-3d-90219). Das Asset wurde über Window/Package Manager in das Projekt importiert.
 
 Dann habe ich Window/Meta/Tools/Buidling Blocks verwendet, um wie in der LV hergezeigt, die notwendigen Building Blocks hinzuzufügen. Ich habe als erstes die Main Camera entfernt und Camera Rig hinzugefügt. Dann habe ich noch zusätzlich Hand Tracking ausgewählt.
 
