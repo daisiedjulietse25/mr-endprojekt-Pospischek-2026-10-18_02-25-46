@@ -249,13 +249,6 @@ public class PlanetDetailMode : MonoBehaviour
                 break;
         }
     }
-
-    private void StopPlanetAudio()
-    {
-        if (planetTypeAudio != null && planetTypeAudio.audioSource != null)
-            planetTypeAudio.audioSource.Stop();
-    }
-
     
     public void CloseDetails()
     {
